@@ -1,2 +1,2 @@
 # Riddhi-Resume
-## Readme for the resumes
+## Readme for the resume
